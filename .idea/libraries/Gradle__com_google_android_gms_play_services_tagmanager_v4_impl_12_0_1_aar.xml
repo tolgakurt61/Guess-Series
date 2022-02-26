@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/562b94fbe21408f3b5af483b69a700ac/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937946da7d07735b0fef9ce25c235dee/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937946da7d07735b0fef9ce25c235dee/jetified-play-services-tagmanager-v4-impl-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/937946da7d07735b0fef9ce25c235dee/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e34b6345289c7f42de626a8b5807425/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14efa5f5a418fc147ae6496f18f4a562/jetified-play-services-tagmanager-v4-impl-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14efa5f5a418fc147ae6496f18f4a562/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14efa5f5a418fc147ae6496f18f4a562/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7069b7185cc946aa9578c31c5c3cd717/jetified-play-services-tagmanager-v4-impl-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7069b7185cc946aa9578c31c5c3cd717/jetified-play-services-tagmanager-v4-impl-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7069b7185cc946aa9578c31c5c3cd717/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

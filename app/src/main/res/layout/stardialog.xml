@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/imageview_answer"
+    android:orientation="vertical">
+
+    <!-- layout title -->
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_margin="11dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_birharf"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/imageview_point"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:padding="5dp"
+            android:text="@string/open_1_letter_2_credit"
+            android:textAllCaps="false"
+            android:textColor="#222222"
+            android:textSize="@dimen/value12"
+            android:textStyle="bold"
+            android:drawableStart="@android:drawable/ic_menu_view"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+    <!-- layout dialog content -->
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_margin="11dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_cvpgoster"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/imageview_point"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:padding="5dp"
+            android:text="@string/answer_letters_5_credit"
+            android:textAllCaps="false"
+            android:textColor="#222222"
+            android:textSize="@dimen/value12"
+            android:textStyle="bold"
+            android:drawableStart="@android:drawable/ic_menu_sort_alphabetically"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+    <!-- layout dialog buttons -->
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_margin="11dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_reklamizle"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@android:color/holo_green_light"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:padding="5dp"
+            android:text="@string/watch_ads_earn_3_credit"
+            android:textColor="#222222"
+            android:textSize="@dimen/value12"
+            android:textStyle="bold"
+            android:drawableStart="@android:drawable/ic_menu_slideshow"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_margin="11dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_kapat"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@android:color/holo_red_light"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:padding="5dp"
+            android:text="@string/close"
+            android:textColor="#222222"
+            android:textSize="@dimen/value12"
+            android:textStyle="bold"
+            android:drawableStart="@android:drawable/ic_menu_slideshow"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+</LinearLayout>

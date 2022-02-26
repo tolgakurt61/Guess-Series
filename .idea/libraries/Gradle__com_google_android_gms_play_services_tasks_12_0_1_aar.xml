@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:12.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54ade48e3031816c9e8af5644b0a1c08/jetified-play-services-tasks-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d76c0d56cf5dc38a5bf1b37d12f66c4/jetified-play-services-tasks-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d76c0d56cf5dc38a5bf1b37d12f66c4/jetified-play-services-tasks-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d76c0d56cf5dc38a5bf1b37d12f66c4/jetified-play-services-tasks-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/144f00d16bdc493bd7589e7ed94763dd/jetified-play-services-tasks-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ee2b2d77d4acc448226ca6e37dc59a5/jetified-play-services-tasks-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ee2b2d77d4acc448226ca6e37dc59a5/jetified-play-services-tasks-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ee2b2d77d4acc448226ca6e37dc59a5/jetified-play-services-tasks-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76421cec976feac9cc324604d04ea7de/jetified-play-services-tasks-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76421cec976feac9cc324604d04ea7de/jetified-play-services-tasks-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76421cec976feac9cc324604d04ea7de/jetified-play-services-tasks-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

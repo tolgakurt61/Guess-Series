@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-vision-common:12.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cecd3961134216ad29ce899ae39fc79/jetified-play-services-vision-common-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c6a7cdcbf49113d5ecfff81e56b586b/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c6a7cdcbf49113d5ecfff81e56b586b/jetified-play-services-vision-common-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c6a7cdcbf49113d5ecfff81e56b586b/jetified-play-services-vision-common-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f11d11876c7a07184080884f68f7eec3/jetified-play-services-vision-common-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71bfee46d2dfd0416a6c97a28148b115/jetified-play-services-vision-common-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71bfee46d2dfd0416a6c97a28148b115/jetified-play-services-vision-common-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71bfee46d2dfd0416a6c97a28148b115/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e154b00620207ad0254045a5bee32acc/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e154b00620207ad0254045a5bee32acc/jetified-play-services-vision-common-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e154b00620207ad0254045a5bee32acc/jetified-play-services-vision-common-12.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

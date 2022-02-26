@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion '29.0.2'
+
+    defaultConfig {
+        applicationId "com.guessseries.emoji"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+
+    dexOptions {
+        preDexLibraries = false
+        javaMaxHeapSize "4g"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = 1.7
+        targetCompatibility = 1.7
+    }
+}
+
+dependencies {
+    //noinspection GradleCompatible
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    //noinspection UseOfBundledGooglePlayServices
+    implementation 'com.google.android.gms:play-services:12.0.1'
+    testImplementation 'junit:junit:4.13.1'
+    implementation 'androidx.multidex:multidex:2.0.1'
+}

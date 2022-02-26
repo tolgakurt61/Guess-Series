@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\BTBK\\Desktop\\yeni uygulamalar\\Tahmin\\ydizitahmin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\BTBK\\.gradle\\caches\\transforms-2\\files-2.1\\54542cc975b9bfda69cdf01b57251cab\\jetified-play-services-appinvite-12.0.1\\res\\values-v11\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "172",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "189",
+                        "endLines": "6",
+                        "endColumns": "8",
+                        "endOffsets": "310"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\BTBK\\Desktop\\yeni uygulamalar\\Tahmin\\ydizitahmin\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "306"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "184"
+                    }
+                }
+            ]
+        }
+    ]
+}

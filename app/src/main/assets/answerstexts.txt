@@ -1,0 +1,327 @@
+{
+    "words": [
+        {
+            "id": 0,
+
+            "a_key": "SUPERGIRL",
+            "s_key": "AERTPLFGTHO",
+            "soru_key": "",
+            "seviye" : ""
+                            },
+        {
+            "id": 1,
+
+            "a_key": "GAME OF THRONES",
+            "s_key": "AERTP",
+            "soru_key": "",
+            "seviye" : ""
+                            },
+
+        {
+            "id": 2,
+
+            "a_key": "THE SIMPSONS",
+            "s_key": "PLRTOKHD",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+
+        {
+            "id": 3,
+
+            "a_key": "THE GOTHAM",
+            "s_key": "AWQDXCVBGT",
+            "soru_key": "",
+            "seviye" : ""
+
+                            },
+
+
+        {
+            "id": 4,
+
+            "a_key": "THE BLACKLIST",
+            "s_key": "VTRMPLK",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 5,
+
+            "a_key": "CRIMINAL MINDS",
+            "s_key": "ZXSDERT",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 6,
+
+            "a_key": "THE FLASH",
+            "s_key": "AWEQRFVBYPL",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+             "id": 7,
+
+             "a_key": "VIKINGS",
+             "s_key": "DESUAQERPOFKD",
+             "soru_key": "",
+             "seviye" : ""
+                            } ,
+
+        {
+            "id": 8,
+
+            "a_key": "HOUSE OF CARDS",
+            "s_key": "PYTAGH",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 9,
+
+            "a_key": "ARROW",
+            "s_key": "AWERDCVFTBHYPLM",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 10,
+
+            "a_key": "THE WALKIND DEAD",
+            "s_key": "HNMP",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 11,
+
+            "a_key": "HOUSE",
+            "s_key": "AERDCVGTYHNMKOP",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 12,
+
+            "a_key": "PRISON BREAK",
+            "s_key": "ASDECVBRTG",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 13,
+
+            "a_key": "THE X FILES",
+            "s_key": "PORTOGUYD",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 14,
+
+            "a_key": "THE 100",
+            "s_key": "25889FGBTHYGA",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+        {
+            "id": 15,
+
+            "a_key": "DOCTOR WHO",
+            "s_key": "AWERSDFVCB",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 16,
+
+            "a_key": "THE MIST",
+            "s_key": "POLKJHDBNCVA",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 17,
+
+            "a_key": "BREAKING BAD",
+            "s_key": "KUBASYGF",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 18,
+
+            "a_key": "LOST",
+            "s_key": "AWQSEDRPLKUYBVHF",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 19,
+
+            "a_key": "SHERLOCK",
+            "s_key": "MNCBGFTRSPLK",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 20,
+
+            "a_key": "MR. ROBOT",
+            "s_key": "AZVBC,İPOLD",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 21,
+
+            "a_key": "CASTLE",
+            "s_key": "HOLLANDEİLKJHD",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 22,
+
+            "a_key": "SPARTACUS",
+            "s_key": "AZSERDFPLVN",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 23,
+
+            "a_key": "BLACK MIRROR",
+            "s_key": "AZXSDCVT",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 24,
+
+            "a_key": "TEEN WOLF",
+            "s_key": "PLKMNCHGFTA",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 25,
+
+            "a_key": "NARCOS",
+            "s_key": "ISVECAQWESDZXC",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 26,
+
+            "a_key": "STARGATE",
+            "s_key": "DANRKPLKMNCH",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 27,
+
+            "a_key": "DEATH NOTE",
+            "s_key": "TUNUARTYFGH",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 28,
+
+            "a_key": "BLACK SAIL",
+            "s_key": "KUVPLKUJMNCBF",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 29,
+
+            "a_key": "LUCIFER",
+            "s_key": "MACARPLYHDJCB",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 30,
+
+            "a_key": "MERLIN",
+            "s_key": "ESTNXAQWSDERFG",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+
+        {
+            "id": 31,
+
+            "a_key": "PREACHER",
+            "s_key": "KOBCDPLAERTH",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 32,
+
+            "a_key": "THE BRIDGE",
+            "s_key": "EOSOVZXSDE",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 33,
+
+            "a_key": "THE GOOD DOCTOR",
+            "s_key": "FDAQE",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+        {
+            "id": 34,
+
+            "a_key": "SOUTH PARK",
+            "s_key": "TAZASDWERF",
+            "soru_key": "",
+            "seviye" : ""
+                            } ,
+
+         ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Emoji Tv Series Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="you_can_reset_all_questions">You can Reset All Questions</string>
+    <string name="reset">Reset</string>
+    <string name="close">Close</string>
+    <string name="you_can_earn_10_credit_rate_and_comment_application">You can earn 10 credit - Rate and comment application</string>
+    <string name="ask_your_friends">ASK YOUR FRIENDS</string>
+    <string name="_1">1</string>
+    <string name="todo">TODO</string>
+    <string name="do_ru">Correct!</string>
+    <string name="next_question">Next Question</string>
+    <string name="guess_emoji_movie">GUESS TV SERIES</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="rate">RATE</string>
+    <string name="rate_earn_10_credit">Rate - Earn 10 Credit</string>
+    <string name="open_1_letter_2_credit">Open 1 Letter - 2 Credit</string>
+    <string name="answer_letters_5_credit">Answer Letters - 5 Credit</string>
+    <string name="watch_ads_earn_3_credit">Watch Ads - Earn 3 Credit</string>
+
+</resources>

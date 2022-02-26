@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red">#ff0000</color>
+    <color name="yellow">#ffc000</color>
+    <color name="gray">#a5a5a5</color>
+    <color name="white">#f2f2f2</color>
+    <color name="white2">#ffffff</color>
+    <color name="gray3">#525252</color>
+    <color name="gray2">#bfbfbf</color>
+    <color name="black">#0d0d0d</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_dark">#00000000</color>
+    <color name="ui_bg_light">#fdf2a6</color>
+    <color name="ui_bg_medium_gray">#e2e2e2</color>
+    <color name="text_medium">#666666</color>
+    <color name="button_text_plain">#4f4f4f</color>
+</resources>

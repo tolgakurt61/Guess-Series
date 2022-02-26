@@ -1,0 +1,96 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/backmenu">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="2"
+            android:src="@drawable/aa"
+            android:contentDescription="@string/todo" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="33dp"
+            android:layout_marginRight="33dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/img_play"
+                android:layout_width="fill_parent"
+                android:layout_height="109dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/imageview_point"
+                android:padding="7dp"
+                android:text="@string/guess_emoji_movie"
+
+                android:textAllCaps="false"
+                android:textColor="@color/black"
+                android:textSize="@dimen/value17bucuk"
+                android:textStyle="bold"
+                tools:ignore="NestedWeights,SpUsage" />
+
+            <Button
+                android:id="@+id/btn_aciklama"
+                android:layout_width="fill_parent"
+                android:layout_height="112dp"
+                android:layout_margin="9dp"
+                android:layout_weight="1"
+                android:background="@drawable/imageview_point"
+                android:padding="7dp"
+                android:text="@string/how_to_play"
+
+                android:textColor="@color/black"
+                android:textSize="@dimen/value17bucuk"
+                android:textStyle="bold"
+                tools:ignore="SpUsage" />
+
+            <Button
+                android:id="@+id/btn_reset"
+                android:layout_width="fill_parent"
+                android:layout_height="120dp"
+                android:layout_margin="9dp"
+                android:layout_weight="1"
+                android:background="@drawable/imageview_point"
+                android:padding="7dp"
+                android:text="RESET"
+
+                android:textColor="@color/black"
+                android:textSize="@dimen/value17bucuk"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText,SpUsage" />
+
+            <Button
+                android:id="@+id/btn_howto"
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_margin="9dp"
+                android:layout_weight="1"
+                android:background="@drawable/imageview_point"
+                android:padding="7dp"
+                android:text="@string/rate"
+
+                android:textColor="@color/black"
+                android:textSize="@dimen/value17bucuk"
+                android:textStyle="bold"
+                android:visibility="invisible"
+                tools:ignore="SpUsage" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>

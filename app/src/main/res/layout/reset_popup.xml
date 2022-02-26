@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/imageview_answer"
+    android:orientation="vertical">
+
+    <!-- layout title -->
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_cvpgoster"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:padding="5dp"
+            android:text="@string/you_can_reset_all_questions"
+            android:textAllCaps="false"
+            android:textColor="@color/black"
+            android:textSize="@dimen/value12"
+            android:textStyle="bold"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_margin="11dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_birharf"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/imageview_point"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:padding="5dp"
+            android:text="@string/reset"
+            android:textColor="#222222"
+            android:textSize="@dimen/value12"
+            android:textStyle="bold"
+            android:drawableStart="@android:drawable/ic_menu_revert"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+    <!-- layout dialog content -->
+
+    <!-- layout dialog buttons -->
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_margin="11dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_kapat"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@android:color/holo_red_light"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:padding="5dp"
+            android:text="@string/close"
+            android:textColor="#222222"
+            android:textSize="@dimen/value12"
+            android:textStyle="bold"
+            android:drawableStart="@android:drawable/ic_menu_revert"
+            tools:ignore="SpUsage" />
+    </LinearLayout>
+
+</LinearLayout>
